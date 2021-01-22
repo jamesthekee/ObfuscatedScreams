@@ -8,5 +8,5 @@ Heavily obfuscated, computationally heavy and overly engineered program to print
 - Combined this function p, by multiplying, adding and composing to generate constants in the formula/ general expression.
 - Used the python ellipsis object (...) and the (.) notation to get its attributes for a confusing looking expression.
 - Used the os.write method instead of usual print.
-- Used __import__ as onelining alternative for import
+- Used \__import__ as onelining alternative for import
 
